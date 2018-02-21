@@ -27,6 +27,7 @@ function makeGame(upperbound){
     	return counter;
   	}
   }
+<<<<<<< HEAD
 }
 
 function makeGame(upperbound){
@@ -81,3 +82,6 @@ var mygame=makeGame(9)
 
 
 
+=======
+}
+>>>>>>> 1885c6ead4e6d951fa8abc3767a9101c1fd46e72
