@@ -23,3 +23,13 @@
 		}
 		return res
 	}
+
+	function char (x){
+		var str= x.spilt(" ")
+		for(var i =0; i<str.length; i++){
+			if(str[i]===x){
+				return i + 1
+
+			}
+
+		}}
