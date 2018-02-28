@@ -5,6 +5,7 @@
 // accum("cwAt");    // "C-Ww-Aaa-Tttt"
 
     function accum(input){
+<<<<<<< HEAD
        var res=""
        str=input.split('')
 
@@ -25,4 +26,7 @@
        }
 
        return res
+=======
+        //your code is here
+>>>>>>> f347da1f79e381ff1db6b5d93ff64fe7dadba6f5
     }
